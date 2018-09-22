@@ -1,0 +1,10 @@
+[package]
+name = "mongodb-test"
+version = "0.1.0"
+authors = ["Philip Van Raalte <phil.vanraalte@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bson = "0.12.2"
+mongodb = "0.3.10"
+dotenv = "0.13.0"
